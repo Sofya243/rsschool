@@ -1,2 +1,2 @@
 # rsschool
-https://sofya243.github.io/rsschool-cv/.
+https://github.com/Sofya243/rsschool-cv/blob/gh-pages/cv.md
