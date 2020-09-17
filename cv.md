@@ -10,18 +10,18 @@ Citizenship: Kazakhstan
 Not ready to move
 ready for business trips
 
-## Work experience :
+<h3> Work experience : </h3>
 
 October 2018-present time
 
-###LLP WOOPPAY
+<h3>LLP WOOPPAY</h3>
 
 Project manager
 Coordination of project work, interaction with the development department, support service, clients.
 
 July 2016-October 2018
 
-###LLP "Translogistics"
+<h3>LLP "Translogistics"</h3>
 
 Transportation manager
 ensuring timely and high-quality delivery of goods, in accordance with the terms and
@@ -33,7 +33,7 @@ forwarding drivers on a business trip, work in the "Platon" system, calculation 
 
 March 2014 -December 2015
 
-###LLP "Spetsmontazh"
+<h3>LLP "Spetsmontazh"</h3>
 
 Manager
 Working with clients, searching, purchasing equipment, comparing prices of different suppliers, calculating
@@ -53,13 +53,13 @@ execution, organization of office work
 June 2011 - June
 2012
 
-###LLP Food Group 
+<h3>LLP Food Group</h3> 
 
 Sales Representative
 Promotion of company brands, work with clients, collection of applications, preparation of documentation,
 distribution of shares, merchandising, record keeping.
 
-##Education
+<h3>Education</h3>
 
 Bachelor
 year of ending 2015
@@ -73,13 +73,13 @@ year of ending 2011
 Karaganda State Polytechnic College
 Specialty - Construction and operation of buildings and structures.
 
-##Languages
+<h3>Languages</h3>
 
 Russian - Native
 English - A2 - Beginner
 Kazakh - A2 - Beginner
 
-##About myself
+<h3>About myself</h3>
 
 I am looking for an interesting job in a company where they value the result and are ready to pay for it! I will work with
 any, but I prefer adequate. About me - an experienced PC user, I know
