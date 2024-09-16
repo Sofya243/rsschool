@@ -1,1 +1,1 @@
-https://sofya243.github.io/rsschool-cv/cv
+https://github.com/Sofya243/rsschool-cv/blob/rsschool-cv-html/index
